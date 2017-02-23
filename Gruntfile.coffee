@@ -11,7 +11,7 @@ module.exports = (grunt) ->
         tasks: ['build']
     coffee:
       options:
-        sourceMap: true
+        sourceMap: false
       default:
         files: [{
           expand: true

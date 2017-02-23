@@ -1,18 +1,18 @@
 {
   "name": "ndx-cors",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "cors for ndx-framework apps",
   "main": "build/index.js",
   "scripts": {
     "test": "node build/test.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ndxbxrme/ndx-cors"
   },
-  "author": "",
+  "author": "ndxbxrme",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/ndxbxrme/ndx-cors",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
