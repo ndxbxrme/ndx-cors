@@ -5,7 +5,8 @@ install with
 ## what it does
 ndx-cors provides the correct headers for cross origin resource sharing to all `/api` and `/auth` routes
 ## example
-make sure you `.use` ndx-cors before everything else
+make sure you `.use` ndx-cors before everything else  
+
 `src/server/app.coffee`
 ```coffeescript
 require 'ndx-server'
