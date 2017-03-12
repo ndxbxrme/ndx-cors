@@ -1,6 +1,6 @@
 {
   "name": "ndx-cors",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "cors for ndx-framework apps",
   "main": "build/index.js",
   "scripts": {
